@@ -56,7 +56,7 @@
 				<artifactId>coveralls-maven-plugin</artifactId>
 				<version>4.3.0</version>
 				<configuration>
-					<repoToken>EUYUahuD38O9xtkfkNmSRtzBBiuLBIXHs</repoToken>
+					<repoToken>YvR2kQv4UTvDdw66vR7GoxrBsDCwRtaJs</repoToken>
 				</configuration>
 			</plugin>
 			<!-- optional for advanced coverage reporting (used by CodeCov service) -->
