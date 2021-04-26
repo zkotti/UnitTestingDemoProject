@@ -1,7 +1,7 @@
 # Unit Testing demonstration project
-[![Build Status](https://travis-ci.org/AntonisGkortzis/UnitTestingDemoProject.svg?branch=master)](https://travis-ci.org/AntonisGkortzis/UnitTestingDemoProject)
-[![codecov](https://codecov.io/gh/AntonisGkortzis/UnitTestingDemoProject/branch/master/graph/badge.svg)](https://codecov.io/gh/AntonisGkortzis/UnitTestingDemoProject)
-[![Coverage Status](https://coveralls.io/repos/github/AntonisGkortzis/UnitTestingDemoProject/badge.svg?branch=master&service=github)](https://coveralls.io/github/AntonisGkortzis/UnitTestingDemoProject)
+[![Build Status](https://travis-ci.com/zkotti/UnitTestingDemoProject.svg?branch=master)](https://travis-ci.com/zkotti/UnitTestingDemoProject)
+[![codecov](https://codecov.io/gh/zkotti/UnitTestingDemoProject/branch/master/graph/badge.svg?token=X72RTTJN3E)](https://codecov.io/gh/zkotti/UnitTestingDemoProject)
+[![Coverage Status](https://coveralls.io/repos/github/zkotti/UnitTestingDemoProject/badge.svg?branch=master)](https://coveralls.io/github/zkotti/UnitTestingDemoProject?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Overview
 This is a Java project serving as a brief demonstration for Unit Testing for the needs of the lab tutorials of the [Software Engineering in Practice](https://www2.dmst.aueb.gr/dds/sweng-en/) course. It makes use of Maven to automate the build process of the two available modules. 
@@ -71,7 +71,7 @@ after_success:
 ```
 The ```-t your_token``` is required only for private respositories. 
 
-In order to obtain a badge [![codecov](https://codecov.io/gh/AntonisGkortzis/UnitTestingDemoProject/branch/master/graph/badge.svg)](https://codecov.io/gh/AntonisGkortzis/UnitTestingDemoProject) in your README that reports the coverage of your project copy-paste the Markdown link provided by CodeCov in the repository's ```Settings-->Badge-->Markdown```. Note that if you have a private repository the badge requires a ```?token=a_token``` variable in the provided url. Otherwise it will always shows "unknown". 
+In order to obtain a badge [![codecov](https://codecov.io/gh/zkotti/UnitTestingDemoProject/branch/master/graph/badge.svg?token=X72RTTJN3E)](https://codecov.io/gh/zkotti/UnitTestingDemoProject) in your README that reports the coverage of your project copy-paste the Markdown link provided by CodeCov in the repository's ```Settings-->Badge-->Markdown```. Note that if you have a private repository the badge requires a ```?token=a_token``` variable in the provided url. Otherwise it will always shows "unknown". 
 
 [Here](https://github.com/codecov/example-java) is a short example for using CodeCov with TravisCI in a Java project.
 
